@@ -1,1 +1,1 @@
-# Algorithmic problems
+# Standard algorithmic problems.
